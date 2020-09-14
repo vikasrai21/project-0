@@ -1,0 +1,44 @@
+<style>
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+               
+    margin-top: auto;
+    padding: 10px;
+text-align: center;
+background: #e4e4e4;
+color: white;
+}
+   .logo{
+       padding-top: 11px;
+       display: absolute;
+   }
+   h2{
+       padding: 20px;
+   }
+   .form-group{
+       display: absolute;
+
+   }
+   .form-control{
+       width: 40%;
+       height: 32px;
+       padding-left: 10px;
+   }
+   .form-control,#name{
+       padding: 15px;
+       display: absolute;
+       float: right;
+       margin-right: 370px;
+   }
+   #button{
+       background-color: blue;
+       margin-right: 300px;
+       padding: 7px;
+       color: #fff;
+   }
+   #button:hover{
+       box-shadow: red;
+   }
+</style>
